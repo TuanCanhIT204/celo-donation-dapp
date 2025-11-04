@@ -1,4 +1,8 @@
 Celo Donation DApp – Transparent Charity Platform
+Thành viên nhóm thực hiện :
+Đặng Tuấn Cảnh
+Bùi Lê Minh
+
 
 A, Giới thiệu
 Celo Donation DApp là ứng dụng phi tập trung (DApp) cho phép mọi người tạo chiến dịch gây quỹ, quyên góp CELO token, và rút tiền minh bạch trực tiếp trên blockchain Celo.
@@ -60,4 +64,5 @@ Chỉ creator; đặt active=false. Phát CampaignClosed.
 
 getDonors(id)
 Trả danh sách donor (địa chỉ), dùng cho UI minh bạch.
+
 
